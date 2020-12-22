@@ -1,0 +1,6 @@
+framework module Pods_SampleRxDatasourcesTests {
+  umbrella header "Pods-SampleRxDatasourcesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

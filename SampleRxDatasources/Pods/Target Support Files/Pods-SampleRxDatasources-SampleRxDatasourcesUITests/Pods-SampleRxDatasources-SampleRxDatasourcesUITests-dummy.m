@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SampleRxDatasources_SampleRxDatasourcesUITests : NSObject
+@end
+@implementation PodsDummy_Pods_SampleRxDatasources_SampleRxDatasourcesUITests
+@end
